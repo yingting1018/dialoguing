@@ -1,4 +1,4 @@
-// Nathan Altice
+// Yingting Huang
 // Created: 5/13/18
 // Ported to Phaser 3: 5/9/20
 // Updated: 1/13/24
